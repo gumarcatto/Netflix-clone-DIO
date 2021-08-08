@@ -7,7 +7,3 @@ foram trabalhados conceitos de responsividade, e utilizado uma biblioteca jQuery
 ![Capturar](./Capturar.JPG)
 
 <u>Acima representação do site vista de um Desktop.</u>
-
-![Capturar2](.\Capturar2.JPG)
-
-<u>Representação do site vista de um iPad.</u>
