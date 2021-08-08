@@ -4,10 +4,10 @@ este é um projeto de um clone da pagina de principal do Netflix, desenvolvida d
 
 foram trabalhados conceitos de responsividade, e utilizado uma biblioteca jQuery para manipulação do carrossel de séries.
 
-![Capturar](C:\workspace\Netflix-clone-DIO\Capturar.JPG)
+![Capturar](./Capturar.JPG)
 
 <u>Acima representação do site vista de um Desktop.</u>
 
-![Capturar2](C:\workspace\Netflix-clone-DIO\Capturar2.JPG)
+![Capturar2](.\Capturar2.JPG)
 
 <u>Representação do site vista de um iPad.</u>
